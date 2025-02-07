@@ -1,8 +1,8 @@
-<h1 align="center">NOTFLIX</h1>
+# NOTFLIX
 
 <p align="center">f@#k netflix use notflix a tool which searches magnet links and streams it with peerflix</p>
 
-##
+---
 
 **Notice:** Always [use a VPN](https://mullvad.net) or you'd get your house raided for using this script :3
 
