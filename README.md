@@ -8,6 +8,8 @@
 
 > Watch this video to understand - [bugswriter's notflix](https://youtu.be/FbE19_omaWY)
 
+**Notice:** Always use a VPN or you'd get your house raided for using this script :3
+
 ### How does this work?
 
 This is a shell script. It scrapes 1337x and gets the magnet link.
