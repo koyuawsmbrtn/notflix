@@ -2,11 +2,6 @@
 <p align="center">f@#k netflix use notflix a tool which searches magnet links and streams it with peerflix</p>
 
 ##
-<p align="center">
-<img src="./preview.gif" alt="Video Preview" width="500px">
-</p>
-
-> Watch this video to understand - [bugswriter's notflix](https://youtu.be/FbE19_omaWY)
 
 **Notice:** Always [use a VPN](https://mullvad.net) or you'd get your house raided for using this script :3
 
