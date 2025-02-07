@@ -16,7 +16,8 @@ For scraping script use simple gnu utils like sed, awk, paste, cut.
 
 ## Requirements
 
-* [peerflix](https://github.com/mafintosh/peerflix) - A tool to stream torrent. `sudo npm install peerflix -g`
+* npm (can be installed through [nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script))
+* [peerflix](https://github.com/mafintosh/peerflix) - A tool to stream torrent. `npm i -g peerflix`
 
 ## Installation
 
@@ -24,7 +25,7 @@ For scraping script use simple gnu utils like sed, awk, paste, cut.
 cURL **notflix** to your **$PATH** and give execute permissions.
 
 ```sh
-$ sudo curl -sL "https://raw.githubusercontent.com/Bugswriter/notflix/master/notflix" -o /usr/local/bin/notflix
+$ sudo curl -sL "https://raw.githubusercontent.com/koyuawsmbrtn/notflix/master/notflix" -o /usr/local/bin/notflix
 $ sudo chmod +x /usr/local/bin/notflix
 ```
 - To update, just do `curl` again, no need to `chmod` anymore.
