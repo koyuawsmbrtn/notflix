@@ -8,7 +8,7 @@
 
 > Watch this video to understand - [bugswriter's notflix](https://youtu.be/FbE19_omaWY)
 
-**Notice:** Always use a VPN or you'd get your house raided for using this script :3
+**Notice:** Always [use a VPN](https://mullvad.net) or you'd get your house raided for using this script :3
 
 ### How does this work?
 
