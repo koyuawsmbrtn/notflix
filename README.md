@@ -1,5 +1,5 @@
 <h1 align="center">NOTFLIX</h1>
-<p align="center">f@#k netflix use notflix a tool which search magnet links and stream it with peerflix</p>
+<p align="center">f@#k netflix use notflix a tool which searches magnet links and streams it with peerflix</p>
 
 ##
 <p align="center">
@@ -10,19 +10,19 @@
 
 ### How does this work?
 
-This is a shell script. It scape 1337x and get the magnet link.
-After this it use [peerflix](https://github.com/mafintosh/peerflix) to stream the video from magnet link.
-For scraping script use simple gnu utils like sed, awk, paste, cut.
+This is a shell script. It scrapes 1337x and gets the magnet link.
+After this it uses [peerflix](https://github.com/mafintosh/peerflix) to stream the video from the magnet link.
+For scraping it uses the GNU utilities like sed, awk, paste and cut.
 
 ## Requirements
 
 * npm (can be installed through [nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script))
-* [peerflix](https://github.com/mafintosh/peerflix) - A tool to stream torrent. `npm i -g peerflix`
+* [peerflix](https://github.com/mafintosh/peerflix) - A tool to stream torrents: `npm i -g peerflix`
 
 ## Installation
 
-### cURL
-cURL **notflix** to your **$PATH** and give execute permissions.
+### curl
+curl **notflix** to your **$PATH** and give executable permissions.
 
 ```sh
 $ sudo curl -sL "https://raw.githubusercontent.com/koyuawsmbrtn/notflix/master/notflix" -o /usr/local/bin/notflix
